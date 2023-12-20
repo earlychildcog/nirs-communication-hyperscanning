@@ -1,0 +1,18 @@
+# files and folders to not sync
+
+## all kind of temp or data or backup files ##
+*~*
+*.asv
+*.mat
+*.bak
+
+## MacOS generated files ##
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+
+## Whole folders ##
+old
+data
